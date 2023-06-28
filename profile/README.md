@@ -2,6 +2,8 @@
 
 Welcome to our code we crafted to improve our skills in various areas
 
+### 🚧 this readme is still under construction 🚧
+
 <!--
 
 **Here are some ideas to get you started:**
