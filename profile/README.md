@@ -1,8 +1,25 @@
 ## Hi there 👋
 
-Welcome to our code we crafted to improve our skills in various areas
+We are Max² and we created this organization to show off our awesome web craft projects we
+did together while doing our Master's degree. This org mainly exists to host our portfolio
+of projects we did together.
 
-### 🚧 this readme is still under construction 🚧
+## University of Applied Sciences Hagenberg 🎓
+
+We studied in the University of Applied Sciences Hagenberg. We both graduated with our
+Bachelor's in Software Engineering and our Master's in Interactive Media. The Master's
+program was super nice for us because it let us choose freely what we can develop for our
+semester projects.
+
+The really nice aspect of the Master's program back then was, that a big focus lied on the
+project work, which enabled us to choose really challenging topics to further improve our
+coding skills.
+
+## This organization 🤝
+
+We decided that we create an organization to properly open source the code we wrote for
+anybody to look at. Because we both are involved in the creation of the code, we figured
+it would be the best solution to just create an organization.
 
 <!--
 

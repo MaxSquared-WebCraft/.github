@@ -1,0 +1,13 @@
+{
+  "name": "github-profile-max-squared-web-craft",
+  "version": "1.0.0",
+  "description": "Profile page of our org",
+  "keywords": [
+    "markdown"
+  ],
+  "author": "MaxSquared-WebCraft",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
